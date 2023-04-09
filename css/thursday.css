@@ -1,0 +1,7 @@
+#citybanner{
+    background-image: url(../img/night.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5%;
+  height: auto;
+}
